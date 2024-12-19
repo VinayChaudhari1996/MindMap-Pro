@@ -1,6 +1,6 @@
 MindMap Editor Webapp
 <p align="center">
-  <img src="public/logo.png" alt="MindMap Editor Logo" width="200"/>
+  <img src="public/logo.png" alt="MindMap Editor Logo" width="500"/>
 </p>
 
 Overview
